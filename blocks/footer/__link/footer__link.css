@@ -1,0 +1,35 @@
+.footer__link {
+    width: 50px;
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    text-decoration-line: none;
+    color: #fff;
+}
+.footer__link:not(:last-of-type){
+    margin-bottom: 32px;
+}
+
+
+.footer__link:not(:first-of-type) {
+    margin-left: 18px;
+}
+.footer__link:last-of-type {
+    margin-bottom: 0px;
+}
+
+@media screen and (max-width: 500px){
+.footer__link {
+    font-size: 24px;
+}
+}
+
+@media screen and (max-width: 340px) {
+    .footer__link, .footer__link:not(:first-of-type) {
+        display: block;
+        margin-left: 0px;
+        
+    }
+}

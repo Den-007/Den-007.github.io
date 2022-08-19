@@ -1,0 +1,32 @@
+
+.lead__subtitle {
+    position: relative;
+    max-width: 640px;
+    margin: 0 auto;
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+    line-height: 36px;
+    padding-bottom: 64px;
+}
+@media screen and (max-width:1024px) {
+    .lead__subtitle {
+        padding-bottom: 56px;
+
+    } 
+}
+@media screen and (max-width:510px) {
+    .lead__subtitle {
+        max-width: 288px;
+        line-height: 20px;
+        font-size: 16px;
+
+    } 
+}
+
+@media screen and (max-width:320px) {
+    .lead__subtitle {
+        padding:40px;
+    } 
+}

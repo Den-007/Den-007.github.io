@@ -1,0 +1,13 @@
+.photo-grid {
+    min-height: 671px;
+    margin-bottom: 92px;
+}
+@media screen and (max-width: 390px) {
+    .photo-grid {
+        margin-left: 16px;
+        margin-bottom: 64px;
+        max-width: 288px;
+        
+
+    }
+}

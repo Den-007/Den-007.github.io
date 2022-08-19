@@ -1,0 +1,12 @@
+.page__container {
+    color: #fff;
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding: 0px 0 0px;
+    box-sizing: border-box;
+    background-color: #2A2C2F;
+    margin-left: auto;
+    margin-right: auto;
+}

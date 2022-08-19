@@ -1,0 +1,40 @@
+.intro {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-sizing: border-box;
+    background-size: cover;
+    max-height: 429px;
+    max-width: 690px;
+    margin: 0 auto;
+    margin-left: 100px;
+    margin-top: 99px;
+    margin-bottom: 92px;
+}
+
+@media screen and (max-width:1200px) {
+    .intro {
+        margin-left: 0px;
+        margin-top: 92px;
+    } 
+}
+@media screen and (max-width:960px) {
+    .intro {
+        margin-left: 0px;
+        margin-top: 88px;
+        max-width: 768px;
+        margin-bottom: 88px;
+    } 
+}
+
+@media screen and (max-width:631px) {
+    .intro {
+        max-height: 754px;
+        margin-top: 64px;
+        margin-bottom: 64px;
+        max-width: 288px;
+        margin-right: 0px;
+        margin-left: 16px;
+    } 
+}
