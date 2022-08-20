@@ -20,4 +20,4 @@ cover
 footer
 vendor
 
-Ссылка на проект выложенный на gh-pages https://github.com/Den-007/russian-travel/blob/7719fdf1b74c050ca25027dd0582c18992e05d44/index.html
+Ссылка на проект выложенный на gh-pages den-007.github.io
