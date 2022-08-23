@@ -1,16 +1,15 @@
 
-html,
 body {
     margin: 0;
     background: #2A2C2F;
-    font-family: 'Inter', Arial, sans-serif;
+    font-family: "Inter", Arial, Helvetica, sans-serif;
     font-weight: 600;
     margin-left: auto;
     margin-right: auto;  
 }
+
 .page {
     background-color: #2a2c2f;
-    font-family: "Inter", Arial, Helvetica, sans-serif;
     max-width: 1280px;
     margin: 0 auto;
     box-sizing: border-box;
