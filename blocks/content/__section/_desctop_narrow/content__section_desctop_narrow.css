@@ -2,5 +2,5 @@
 .content__section_desctop_narrow {
     max-width: calc(984px + 48px*2);
     margin: 0 auto;
-    max-height: 962px;
+   
 }

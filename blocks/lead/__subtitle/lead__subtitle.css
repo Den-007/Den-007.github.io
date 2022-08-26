@@ -3,7 +3,7 @@
     position: relative;
     max-width: 640px;
     margin: 0 auto;
-    font-family: "Inter", Arial, Helvetica, sans-serif;
+    font-family: "Inter", Arial, sans-serif;
     font-weight: 400;
     font-size: 30px;
     text-align: center;
@@ -27,6 +27,6 @@
 
 @media screen and (max-width:320px) {
     .lead__subtitle {
-        padding:40px;
+        padding-bottom:40px;
     } 
 }
