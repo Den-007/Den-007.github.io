@@ -13,7 +13,7 @@ Flexbox-вёрстка
 Реализовать добавление элементов в DOM с помощью JavaScript и избавитья от дублирования кода в index.html
 Реализовать переключение языков с помощью JavaScript
 Ссылка на сайт:
-file:///Users/evgenia/Desktop/repo/Den-007.github.io/index.html
+https://den-007.github.io/russian-travel/
 
 Project 3: Travel across russia
 The adaptive single page website, developed with a Figma prototype. The webpage is optimized for screen sizes of 320px wide to infinity. The desktop-first approach is used.
@@ -30,4 +30,4 @@ Future improvements
 To use JavaScript for adding elements to the DOM and to remove duplicated markup
 To add language switcher
 URL:
-file:///Users/evgenia/Desktop/repo/Den-007.github.io/index.html
+https://den-007.github.io/russian-travel/
