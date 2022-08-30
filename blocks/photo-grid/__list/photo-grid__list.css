@@ -1,5 +1,7 @@
 
 .photo-grid__list {
+    margin: 0;
+    padding: 0;
     width: 100%;
     position: relative;
     display: grid;
@@ -26,7 +28,6 @@
     .photo-grid__list {
         grid-column-gap: 16px;
         grid-row-gap: 16px;
-        margin-bottom: 0px;
         grid-template-columns: repeat(auto-fill, minmax(352px, auto));
     }
 }
@@ -37,7 +38,7 @@
     }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 394px) {
     .photo-grid__list {
         grid-row-gap: 12px;
         margin-bottom: 0px;

@@ -15,18 +15,14 @@
 @media screen and (max-width: 512px) {
     .cover__title {
     max-width: 250px;
-    min-height: 70px;
     font-size: 32px;
   }
 }
 
 @media screen and (max-width:500px) {
     .cover__title {
-        font-size: 32px;
         line-height: 35px;
         width: 288px;
         margin-bottom: 16px;
-        font-weight: 900;
-
     } 
 } 

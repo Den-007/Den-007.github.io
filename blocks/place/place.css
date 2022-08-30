@@ -31,7 +31,7 @@
         margin: 0 0 73px 0;
     } 
 } 
-@media screen and (max-width:350px) {
+@media screen and (max-width:360px) {
     .place {
         grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
         max-width: 320px;
