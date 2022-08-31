@@ -6,3 +6,8 @@
     font-weight: 400;
     max-width: 40%;
 }
+.place__link:hover  {
+    opacity: 0.8;
+    transition: 1s;
+    
+}
